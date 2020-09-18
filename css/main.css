@@ -1,0 +1,9 @@
+
+html {
+  background: url('../img/under-construction.jpg') no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  color: white;
+}
